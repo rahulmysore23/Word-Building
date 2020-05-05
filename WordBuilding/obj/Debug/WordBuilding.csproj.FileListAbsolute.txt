@@ -1,0 +1,6 @@
+D:\Programming\Games\WordBuilding\WordBuilding\obj\Debug\WordBuilding.csprojAssemblyReference.cache
+D:\Programming\Games\WordBuilding\WordBuilding\bin\Debug\WordBuilding.exe.config
+D:\Programming\Games\WordBuilding\WordBuilding\bin\Debug\WordBuilding.exe
+D:\Programming\Games\WordBuilding\WordBuilding\bin\Debug\WordBuilding.pdb
+D:\Programming\Games\WordBuilding\WordBuilding\obj\Debug\WordBuilding.exe
+D:\Programming\Games\WordBuilding\WordBuilding\obj\Debug\WordBuilding.pdb
